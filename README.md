@@ -1,10 +1,10 @@
-- 👋 Hey! I'm Gaurav Padam
-- 🟩 I'm a MERN Stack developer
-- 🌱 I'm currently learning Web3
-- 👀 [My Portfolio](https://gauravpadam.netlify.app)
-- 🙌 I'm an Opensource contributor
-- Happy to be reached out , Happy to collaborate
-- 📫[E-mail](mailto:gauravpadam2@gmail.com)
+- ## 👋 Hey! I'm Gaurav Padam
+- #### 🟩 I'm a MERN Stack developer
+- #### 🌱 I'm currently learning Web3
+- #### 👀 [My Portfolio](https://gauravpadam.netlify.app)
+- #### 🙌 I'm an Opensource contributor
+- #### Happy to be reached out , Happy to collaborate
+- #### 📫[E-mail](mailto:gauravpadam2@gmail.com)
 
 
 
