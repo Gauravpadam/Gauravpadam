@@ -1,10 +1,10 @@
 - 👋 Hey! I'm Gaurav Padam
 - 🟩 I'm a MERN Stack developer
 - 🌱 I'm currently learning Web3
-- 👀 Here's my portfolio: gauravpadam.netlify.app
-- 💯 I'm an Opensource enthusiast
+- 👀 [My Portfolio](https://gauravpadam.netlify.app)
+- 🙌 I'm an Opensource contributor
 - Happy to be reached out , Happy to collaborate
-- 📫gauravpadam2@gmail.com
+- 📫[E-mail](mailto:gauravpadam2@gmail.com)
 
 
 
