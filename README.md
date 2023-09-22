@@ -1,5 +1,5 @@
 ## 👋 Hey! I'm Gaurav Padam
--  🟩 Mern stack Developer & DevOps Engineer
+-  🟩 DevOps | Mern Stack Dev
 -  🌱 I'm currently learning Web3
 -  👀 [My Portfolio](https://gauravpadam.netlify.app)
 -  🙌 I'm an Opensource contributor
