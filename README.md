@@ -6,6 +6,7 @@
 -  Happy to be reached out to, Happy to collaborate
 -  📫[E-mail](mailto:gauravpadam2@gmail.com)
 
+[![An image of @gauravpadam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravpadam)](https://holopin.io/@gauravpadam)
 
 
 <!---
