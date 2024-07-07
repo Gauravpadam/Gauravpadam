@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Gaurav Padam
--  🟩 DevOps | Mern Stack Dev
--  🌱 I'm currently learning Web3
+-  🦀 Let's setup cargo!
+-  🌱 I'm currently learning system design
 -  👀 [My Portfolio](https://gauravpadam.netlify.app)
 -  🙌 I'm an Opensource contributor
 -  Happy to be reached out to, Happy to collaborate
