@@ -1,10 +1,6 @@
-## 👋 Hey! I'm Gaurav Padam
--  🦀 Let's setup cargo!
--  🌱 I'm currently learning system design
--  👀 [My Portfolio](https://gauravpadam.netlify.app)
--  🙌 I'm an Opensource contributor
--  Happy to be reached out to, Happy to collaborate
--  📫[E-mail](mailto:gauravpadam2@gmail.com)
+## Hey
+I read code, write code and do stuff with architecture. I also make random arrow diagrams to explain how my applications are supposed to work.
+I do some math as well.
 
 [![An image of @gauravpadam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravpadam)](https://holopin.io/@gauravpadam)
 
